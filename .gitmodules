@@ -3,4 +3,4 @@
 	url = https://github.com/BLitzMe/repairConsoleFE
 [submodule "RepairConsole"]
 	path = RepairConsole
-	url = https://github.com/LukasDJacobs/RepairConsole
+	url = https://github.com/BLitzMe/rc-backend
