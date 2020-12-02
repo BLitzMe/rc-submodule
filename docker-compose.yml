@@ -22,7 +22,7 @@ services:
       repc:
         ipv4_address: 172.20.0.6
     ports:
-      - 8080:80
+      - 8090:80
     links:
       - server
 
